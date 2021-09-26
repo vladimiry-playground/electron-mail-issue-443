@@ -17,5 +17,6 @@ Beta branch location: https://github.com/flathub/com.github.vladimiry.ElectronMa
 Commands to execute:
 - `flatpak remote-add --user flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo`
 - `flatpak update --appstream`
+- Run `flatpak search com.github.vladimiry.ElectronMail` and make sure that `com.github.vladimiry.ElectronMail 4.12.9 beta flathub-beta` is in the list.
 - `flatpak install --user flathub-beta com.github.vladimiry.ElectronMail//beta`
-- `flatpak run flathub-beta com.github.vladimiry.ElectronMail//beta` (starting the app).
+- `flatpak run --branch=beta com.github.vladimiry.ElectronMail` (starting the app).
