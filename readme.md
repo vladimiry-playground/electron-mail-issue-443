@@ -1,6 +1,6 @@
 The "About" app's window should show the `v4.12.9 2360806` version.
 
-https://github.com/vladimiry/ElectronMail/runs/3714891211?check_suite_focus=true#step:17:2784 (hashes printed at the 2784 line)
+https://github.com/vladimiry/ElectronMail/runs/3714891211?check_suite_focus=true#step:17:2772 (hashes printed at the 2772 line)
 
 Hashing 6 package's located in ./dist directory:
 - electron-mail-4.12.9-linux-amd64.deb [sha256]: 06f6e5a8e51d296aeaf003d6f09629640421c8d0c6658578785f4db5a42ff929
